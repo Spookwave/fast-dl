@@ -1,0 +1,19 @@
+// ------------------------------------------------------------------------------------ //
+// Westerner's Wildcard
+// ------------------------------------------------------------------------------------ //
+
+"Weapon_WW.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/wildcard_shoot.wav"
+}
+
+"Weapon_WW.SingleCrit"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/wildcard_shoot_crit.wav"
+}
