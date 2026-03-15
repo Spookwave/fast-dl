@@ -1,0 +1,7 @@
+particles_manifest
+{
+	file    "!particles/drg_bison.pcf"  
+
+
+
+}
